@@ -1,4 +1,4 @@
 spring:
   profiles: test # 测试环境
   application:
-    name: springcloud-config-atguigu-test
+    name: springcloud-config-mdh-test
